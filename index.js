@@ -1,2 +1,2 @@
 console.log('HELLO WORLD!');
-for (;;) {}
+for (let i = 0;;) {}
